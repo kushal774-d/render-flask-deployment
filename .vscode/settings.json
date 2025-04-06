@@ -1,0 +1,7 @@
+{
+    "git.blame.statusBarItem.enabled": true,
+    "git.closeDiffOnOperation": false,
+    "git.diagnosticsCommitHook.Enabled": false,
+    "git.enableStatusBarSync": true,
+    "git.enabled": false
+}
